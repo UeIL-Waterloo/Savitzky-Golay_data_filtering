@@ -1,7 +1,7 @@
 # Savitzky-Golay_data_filtering
 A short script for Savitzky-Golay filtering.
 
-This script was developed in the following environment:
+<b>This script was developed in the following environment:</b>
 
 Python 3.9.7
 
